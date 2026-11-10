@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("listfr-ngrund")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06faca6307221407e9b6be2f0b9efed39e906781")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbc2b393df7188e9627e191ee45253219a190ef6")]
 [assembly: System.Reflection.AssemblyProductAttribute("listfr-ngrund")]
 [assembly: System.Reflection.AssemblyTitleAttribute("listfr-ngrund")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
